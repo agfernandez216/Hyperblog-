@@ -1,1 +1,2 @@
 Estoy aprendiendo git, ctrl n para crear archivos en vsc
+Esta es la historia de Ana Fernandez y estos son cambios para un nuevo commit
